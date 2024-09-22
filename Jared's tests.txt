@@ -2,3 +2,6 @@
 Added walking and turning by using the oculus controllers. The left stick walks and the right stick snap turns.
 Added an animated door(it opens and closes repeatedly for now, this was only to make sure the beta tester sees).
 Got rid of the red line that was in the floor.
+9/21/24
+Added asset for smoke particles. It spawns in hallway behind door for 40 seconds(can be changed). The asset also has other effects as well if we want them.
+Changed door animation to only open and stay open.
